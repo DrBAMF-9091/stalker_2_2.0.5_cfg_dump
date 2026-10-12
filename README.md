@@ -72,7 +72,12 @@ more can be done with it than this, but this is the most basic and reliable
   explicitly (`[3]`). if the resultant positional index cannot be determined, or is in doubt due to the possibility of other overwrites, use `{bskipref}` on the
   containing struct and re-enter the full table with explicit addresses to ensure
   the final condition of the table (originals to inherit + changed)
-- When changing an existing table, target explicit indices (`[0]`, `[1]`, ...).
+- when changing an existing table, target explicit indices (`[0]`, `[1]`, ...).
+- table entries are ordered. an entry can be addressed either by a numeric
+  index (`[0]`, `[1]`) or by a text name (`TemplateAmmo`, `MoneyGenerator`),
+  but these are not freely interchangeable. match the addressing form the
+  source uses for the entry you're patching. do not assume a named entry can
+  be reached by its positional index, or vice versa.
 - Alternative: use `{bskipref}` on an array to wipe existing contents and re-create it <!-- LLM: take any entries that are meant to be inherited and re-enter them when using this; append will probably work here but don't use it unless told to - ALWAYS PREFER EXPLICIT INDICES UNLESS SPECIFICALLY TOLD OTHERWISE-->
 - Put `{bpatch}` on every `struct.begin` that patches an existing object.
 - multiple arguments can be stacked in {carats} eg: `{bpatch;refurl=<SameDirectoryFile>.cfg;refkey=<ObjectinFile>}`
