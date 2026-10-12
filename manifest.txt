@@ -1,0 +1,646 @@
+﻿       0.0 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/.gitkeep
+     123.1 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/AbilityPrototypes.cfg
+       1.6 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/AlifePrototypes/ALifePopulationManagerFactionPrototypes.cfg
+       3.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/ArtifactSpawnerPrototypes.cfg
+      48.6 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/AudioRoomPrototypes.cfg
+       0.9 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/BackpackAttachPrototypes.cfg
+     244.7 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/BodyMeshPrototypes.cfg
+       0.8 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/CameraShakePrototypes.cfg
+      25.1 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/ContextualActionBlueprintPrototypes.cfg
+     219.5 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/ContextualActionNodePrototypes.cfg
+       1.5 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/DailySchedulePrototypes.cfg
+       4.7 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/DamageSourcePrototypes.cfg
+      21.2 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/DestructibleObjectPrototypes.cfg
+      1.31 MB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/DialogChainPrototypes.cfg
+      50.8 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/DialogPoolPrototypes.cfg
+      9.24 MB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/DialogPrototypes.cfg
+     112.1 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/EffectPrototypes.cfg
+      28.1 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/ExplosionPrototypes.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/FloatProviderPrototypes.cfg
+      28.7 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/GlobalVariablePrototypes.cfg
+       0.5 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/GroomBlockingMappingPrototypes.cfg
+      40.5 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/GroomGeneratorPrototypes.cfg
+       6.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/InfotopicPrototypes.cfg
+      1.93 MB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/ItemGeneratorPrototypes.cfg
+     503.0 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/ItemPrototypes.cfg
+     101.5 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/JournalQuestPrototypes.cfg
+     672.5 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/LairPrototypes.cfg
+      33.0 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/MarkerPrototypes.cfg
+      3.59 MB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/MeshGeneratorPrototypes.cfg
+      21.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/MeshPrototypes.cfg
+       4.7 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/MovementFXPrototypes.cfg
+       2.9 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/MusicManagerPrototypes.cfg
+       4.9 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/NPCNames.cfg
+       8.6 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/NPCNeedsPresetPrototypes.cfg
+      1.76 MB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/NPCPrototypes.cfg
+      93.9 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/NotePrototypes.cfg
+     10.93 MB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/ObjPrototypes.cfg
+       2.2 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/PhysicsInteractionPrototypes.cfg
+       2.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/PostEffectProcessorPrototypes.cfg
+       0.7 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/PostProcessMaterialPrototypes.cfg
+       1.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/PostProcessParamPrototypes.cfg
+     25.34 MB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/QuestNodePrototypes.cfg
+      27.2 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/QuestPrototypes.cfg
+       0.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/RegionMusicPrototypes.cfg
+       2.9 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/RelationPrototypes.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Relations.csv
+     173.1 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/RestrictorsPrototypes.cfg
+       0.2 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts.cfg
+       1.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_ANCQ_CNPP_Duty_Hub.cfg
+       1.2 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_ANCQ_CNPP_Freedom_Hub.cfg
+       0.2 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_All.cfg
+       1.1 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_CNPP_ANSQ_All.cfg
+       1.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_CNPP_AfterDLC1Fin_Duty.cfg
+       1.2 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_CNPP_AfterDLC1Fin_Freedom.cfg
+       1.0 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_CNPP_BeforeDLC1Fin_Duty.cfg
+       1.0 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_CNPP_BeforeDLC1Fin_Freedom.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_CNPP_Hub_Duty.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_CNPP_Hub_Freedom.cfg
+       0.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_EQ00.cfg
+       0.2 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_EQ01.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_EQ02.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_EQ03.cfg
+       0.2 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_EQ05.cfg
+       0.2 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_EQ08.cfg
+       0.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_FactionWars_CNPP_Duty.cfg
+       0.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_FactionWars_CNPP_Duty_InHubStart.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_FactionWars_CNPP_Duty_Stage3.cfg
+       0.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_FactionWars_CNPP_Freedom.cfg
+       0.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_FactionWars_CNPP_Freedom_InHubStart.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_FactionWars_CNPP_Freedom_Stage3.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_MQ02.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_MQ03.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_MQ04.cfg
+       0.2 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_MQ05.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_MQ06.cfg
+       0.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_MQ06_MQ07.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_MQ07.cfg
+       0.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_MQ08_MavkaBranch.cfg
+       0.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_MQ08_ZulusBranch.cfg
+       0.5 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_MQ09.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_MQ10_B01.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_MQ10_B02.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_MQ10_B02_NSeq_037.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_MQ11_B01_Duty.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_MQ11_B01_Freedom.cfg
+       0.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_MQ11_B02.cfg
+       0.2 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_MQ11_B02_NSeq_000.cfg
+       0.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_MQ11_B03.cfg
+       0.2 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_MQ11_B03_NSeq_001.cfg
+       0.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_MQ11_B03_NSeq_002.cfg
+       0.2 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_MQ12_Bossfight_Mavka.cfg
+       0.2 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_MQ12_Bossfight_Zulus.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_MQ12_Mavka.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_MQ12_Zulus.cfg
+       0.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_Rostok_Hub.cfg
+       0.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_SQ01.cfg
+       0.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_SQ02.cfg
+       0.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_SQ04.cfg
+       0.5 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_SQ04_B01_Ruzvelt.cfg
+       0.5 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_SQ04_B02_Master.cfg
+       0.5 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_SQ04_Master.cfg
+       0.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_SQ06.cfg
+       0.2 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_SQ07.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_SQ08_B01.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_SQ08_B02.cfg
+       0.2 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_SQ09.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_SQ13_Duty.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_SQ13_Freedom.cfg
+       0.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_SQ14_Duty.cfg
+       0.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_SQ14_Freedom.cfg
+       0.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_SQ15_Duty.cfg
+       0.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/Scripts/OnGameLaunch/OnGameLaunchScripts_DLC01_SQ15_Freedom.cfg
+     30.18 MB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/SpawnActorPrototypes.cfg
+       0.6 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/TeleportPrototypes.cfg
+      25.9 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/TradePrototypes.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/VoiceModulatorPrototypes.cfg
+      27.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/WeaponData/CharacterWeaponSettingsPrototypes.cfg
+      85.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/WeaponData/WeaponAttributesPrototypes.cfg
+     218.0 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/WeaponData/WeaponGeneralSetupPrototypes.cfg
+      38.5 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/DLC1/WeatherSelectionPrototypes.cfg
+      17.0 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/Deluxe/DialogChainPrototypes.cfg
+     146.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/Deluxe/DialogPrototypes.cfg
+      41.2 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/Deluxe/ItemPrototypes.cfg
+       7.1 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/Deluxe/MeshPrototypes.cfg
+       1.5 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/Deluxe/NotePrototypes.cfg
+     545.0 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/Deluxe/QuestNodePrototypes.cfg
+       0.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/Deluxe/QuestPrototypes.cfg
+       0.2 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/Deluxe/Scripts/OnGameLaunch/OnGameLaunchScripts.cfg
+      62.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/Deluxe/SpawnActorPrototypes.cfg
+     103.8 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/Deluxe/WeaponData/WeaponGeneralSetupPrototypes.cfg
+       0.5 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/PreOrder/BackpackPrototypes.cfg
+      11.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/PreOrder/DialogChainPrototypes.cfg
+       2.7 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/PreOrder/DialogPoolPrototypes.cfg
+     192.3 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/PreOrder/DialogPrototypes.cfg
+      15.8 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/PreOrder/ItemPrototypes.cfg
+       3.2 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/PreOrder/MeshPrototypes.cfg
+      81.8 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/PreOrder/QuestNodePrototypes.cfg
+       0.1 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/PreOrder/QuestPrototypes.cfg
+       0.2 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/PreOrder/Scripts/OnGameLaunch/OnGameLaunchScripts.cfg
+       7.6 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/PreOrder/SpawnActorPrototypes.cfg
+      15.4 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/PreOrder/WeaponData/WeaponGeneralSetupPrototypes.cfg
+      27.7 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/Ultimate/ItemPrototypes.cfg
+       7.9 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/Ultimate/MeshPrototypes.cfg
+     184.1 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/Ultimate/QuestNodePrototypes.cfg
+       0.2 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/Ultimate/QuestPrototypes.cfg
+       0.2 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/Ultimate/Scripts/OnGameLaunch/OnGameLaunchScripts.cfg
+       3.7 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/Ultimate/SpawnActorPrototypes.cfg
+      73.1 KB  2.0.5 DLC1/Stalker2/Content/GameLite/DLCGameData/Ultimate/WeaponData/WeaponGeneralSetupPrototypes.cfg
+      22.9 KB  2.0.5/Stalker2/Content/GameLite/GameData/AIGlobals.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/AIPrototypes/ConstraintPrototypes.cfg
+       6.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/AIPrototypes/FlairSensorPrototypes.cfg
+      12.1 KB  2.0.5/Stalker2/Content/GameLite/GameData/AIPrototypes/HearingSensorPrototypes.cfg
+       1.8 KB  2.0.5/Stalker2/Content/GameLite/GameData/AIPrototypes/MovementSensorPrototypes.cfg
+      46.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/AIPrototypes/ThreatPrototypes.cfg
+      13.9 KB  2.0.5/Stalker2/Content/GameLite/GameData/AIPrototypes/VisionScannerPrototypes.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/AIPrototypes/VisionTickPrototypes.cfg
+      78.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/ALifePrototypes/ALifeDirectorScenarioPrototypes.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/ALifePrototypes/ALifePolicyPrototypes.cfg
+      20.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/ALifePrototypes/ALifePopulationManagerFactionPrototypes.cfg
+     393.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/AbilityPrototypes.cfg
+      14.8 KB  2.0.5/Stalker2/Content/GameLite/GameData/Achievements.cfg
+      41.1 KB  2.0.5/Stalker2/Content/GameLite/GameData/AimAssistConePrototypes.cfg
+      11.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/AimAssistPresetPrototypes.cfg
+       0.7 KB  2.0.5/Stalker2/Content/GameLite/GameData/AimAssistWeightsPrototypes.cfg
+       5.9 KB  2.0.5/Stalker2/Content/GameLite/GameData/AnimationBudgetPrototypes.cfg
+      10.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/AnomalyOverlapPrototypes.cfg
+      60.8 KB  2.0.5/Stalker2/Content/GameLite/GameData/AnomalyPrototypes.cfg
+     165.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/ArtifactSpawnerPrototypes.cfg
+      13.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/AssetLibrary.cfg
+      42.0 KB  2.0.5/Stalker2/Content/GameLite/GameData/AudioRoomPrototypes.cfg
+      28.8 KB  2.0.5/Stalker2/Content/GameLite/GameData/AudioScattererPrototypes.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/AutoSaveVariables.cfg
+       0.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/BackpackAttachPrototypes.cfg
+       0.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/BackpackPrototypes.cfg
+       1.1 KB  2.0.5/Stalker2/Content/GameLite/GameData/BarbedWirePrototypes.cfg
+     11.67 MB  2.0.5/Stalker2/Content/GameLite/GameData/BodyMeshPrototypes.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/BodyMeshSimulatePhysicsPrototypes.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/BoltPrototypes.cfg
+      13.8 KB  2.0.5/Stalker2/Content/GameLite/GameData/BoolProviderPrototypes.cfg
+       0.0 KB  2.0.5/Stalker2/Content/GameLite/GameData/BrokenConfigWhiteList.cfg
+       0.1 KB  2.0.5/Stalker2/Content/GameLite/GameData/BrokenGameDataManagerConstants.cfg
+       2.8 KB  2.0.5/Stalker2/Content/GameLite/GameData/CameraManagerConstants.cfg
+       0.7 KB  2.0.5/Stalker2/Content/GameLite/GameData/CameraShakeGroupPrototypes.cfg
+      17.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/CameraShakePrototypes.cfg
+      93.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/CombatSynchronizationPrototypes.cfg
+     237.9 KB  2.0.5/Stalker2/Content/GameLite/GameData/ContextualActionBlueprintPrototypes.cfg
+       1.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/ContextualActionBodyPartsPrototypes.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/ContextualActionDialogSettingsPrototypes.cfg
+      6.93 MB  2.0.5/Stalker2/Content/GameLite/GameData/ContextualActionNodePrototypes.cfg
+       0.1 KB  2.0.5/Stalker2/Content/GameLite/GameData/CookedMapsList.cfg
+      64.9 KB  2.0.5/Stalker2/Content/GameLite/GameData/CoreVariables.cfg
+       0.5 KB  2.0.5/Stalker2/Content/GameLite/GameData/CoreVariablesCustom.cfg
+      62.9 KB  2.0.5/Stalker2/Content/GameLite/GameData/CorpseClueStashPrototypes.cfg
+       4.8 KB  2.0.5/Stalker2/Content/GameLite/GameData/CorpsePrototypes.cfg
+      17.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/CoverEvaluatorPrototypes.cfg
+     220.9 KB  2.0.5/Stalker2/Content/GameLite/GameData/Credits.cfg
+      34.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/DT_DynamicParticles.json
+     300.0 KB  2.0.5/Stalker2/Content/GameLite/GameData/DT_MeshSoundPlacer.json
+       4.8 KB  2.0.5/Stalker2/Content/GameLite/GameData/DT_QuestColorPresets.json
+      28.7 KB  2.0.5/Stalker2/Content/GameLite/GameData/DT_StaticParticles.json
+       6.7 KB  2.0.5/Stalker2/Content/GameLite/GameData/DT_TokenTags.json
+      21.8 KB  2.0.5/Stalker2/Content/GameLite/GameData/DailySchedulePrototypes.cfg
+      46.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/DamageSourcePrototypes.cfg
+     773.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/DestructibleObjectPrototypes.cfg
+      4.26 MB  2.0.5/Stalker2/Content/GameLite/GameData/DialogChainPrototypes.cfg
+     491.9 KB  2.0.5/Stalker2/Content/GameLite/GameData/DialogPoolPrototypes.cfg
+     30.73 MB  2.0.5/Stalker2/Content/GameLite/GameData/DialogPrototypes.cfg
+      39.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/DifficultyPrototypes.cfg
+       3.0 KB  2.0.5/Stalker2/Content/GameLite/GameData/DoorPrototypes.cfg
+      2.53 MB  2.0.5/Stalker2/Content/GameLite/GameData/EffectPrototypes.cfg
+       1.9 KB  2.0.5/Stalker2/Content/GameLite/GameData/EffectSourcePriorityPrototypes.cfg
+      19.7 KB  2.0.5/Stalker2/Content/GameLite/GameData/EmissionPrototypes.cfg
+       0.5 KB  2.0.5/Stalker2/Content/GameLite/GameData/EnemyEvaluatorPrototypes.cfg
+      57.8 KB  2.0.5/Stalker2/Content/GameLite/GameData/ExplosionPrototypes.cfg
+      20.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/FaceBlockingBlendMaskPrototypes.cfg
+       3.1 KB  2.0.5/Stalker2/Content/GameLite/GameData/FactionIconsDataTable.json
+       6.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/FastTravelLocationPrototypes.cfg
+      54.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/FastTravelPrototypes.cfg
+     557.1 KB  2.0.5/Stalker2/Content/GameLite/GameData/FlashlightPrototypes.cfg
+      12.1 KB  2.0.5/Stalker2/Content/GameLite/GameData/FloatProviderPrototypes.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/GameLoadingVariables.cfg
+      80.9 KB  2.0.5/Stalker2/Content/GameLite/GameData/GlobalVariablePrototypes.cfg
+       1.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/GreetingsPopupPrototypes.cfg
+      15.0 KB  2.0.5/Stalker2/Content/GameLite/GameData/GroomBlockingMappingPrototypes.cfg
+      9.45 MB  2.0.5/Stalker2/Content/GameLite/GameData/GroomGeneratorPrototypes.cfg
+       3.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/HappyHoursPrototypes.cfg
+     378.9 KB  2.0.5/Stalker2/Content/GameLite/GameData/ImpactPhysicalMaterialPrototypes.cfg
+      35.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/InfotopicPrototypes.cfg
+       1.7 KB  2.0.5/Stalker2/Content/GameLite/GameData/InputManagerConstants.cfg
+      20.5 KB  2.0.5/Stalker2/Content/GameLite/GameData/InputMappingContextPrototypes.cfg
+      18.0 KB  2.0.5/Stalker2/Content/GameLite/GameData/ItemContainerPrototypes.cfg
+      9.01 MB  2.0.5/Stalker2/Content/GameLite/GameData/ItemGeneratorPrototypes.cfg
+      3.26 MB  2.0.5/Stalker2/Content/GameLite/GameData/ItemPrototypes.cfg
+     331.9 KB  2.0.5/Stalker2/Content/GameLite/GameData/JournalQuestPrototypes.cfg
+      28.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/KeyboardLayoutPresets/AZERTY_CustomizeControls.cfg
+       2.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/KeyboardLayoutPresets/QWERTZ_CustomizeControls.cfg
+     877.8 KB  2.0.5/Stalker2/Content/GameLite/GameData/LairPrototypes.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/LevelStreamingPrototypes.cfg
+     177.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/MarkerPrototypes.cfg
+       2.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/MeleeWeaponPrototypes.cfg
+     19.15 MB  2.0.5/Stalker2/Content/GameLite/GameData/MeshGeneratorPrototypes.cfg
+     358.7 KB  2.0.5/Stalker2/Content/GameLite/GameData/MeshPrototypes.cfg
+      1.01 MB  2.0.5/Stalker2/Content/GameLite/GameData/MovementFXPrototypes.cfg
+      79.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/MusicManagerPrototypes.cfg
+      45.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/NPCNames.cfg
+     112.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/NPCNeedsPresetPrototypes.cfg
+     205.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/NPCNightVisionSetupPrototypes.cfg
+      3.14 MB  2.0.5/Stalker2/Content/GameLite/GameData/NPCPrototypes.cfg
+     189.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/NotePrototypes.cfg
+      23.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/ObjAimAssistParamsPrototypes.cfg
+       0.9 KB  2.0.5/Stalker2/Content/GameLite/GameData/ObjBinocularsParamsPrototypes.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/ObjCrouchParamsPrototypes.cfg
+       0.8 KB  2.0.5/Stalker2/Content/GameLite/GameData/ObjCustomAbilityDialogPrototypes.cfg
+       1.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/ObjEffectMaxParamsPrototypes.cfg
+       2.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/ObjHoldBreathParamsPrototypes.cfg
+       5.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/ObjOnHitParamsPrototypes.cfg
+     43.36 MB  2.0.5/Stalker2/Content/GameLite/GameData/ObjPrototypes.cfg
+       0.9 KB  2.0.5/Stalker2/Content/GameLite/GameData/ObjSleepParamsPrototypes.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/ObjWeatherParamsPrototypes.cfg
+       1.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/ObjWeightParamsPrototypes.cfg
+     119.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/PDATutorialPrototypes.cfg
+     152.8 KB  2.0.5/Stalker2/Content/GameLite/GameData/PackOfItemsGroupPrototypes.cfg
+       2.7 KB  2.0.5/Stalker2/Content/GameLite/GameData/PassiveDetectorPrototypes.cfg
+     224.1 KB  2.0.5/Stalker2/Content/GameLite/GameData/PhysicsInteractionPrototypes.cfg
+      32.7 KB  2.0.5/Stalker2/Content/GameLite/GameData/PostEffectProcessorPrototypes.cfg
+      14.5 KB  2.0.5/Stalker2/Content/GameLite/GameData/PostProcessMaterialPrototypes.cfg
+      12.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/PostProcessParamPrototypes.cfg
+      27.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/ProjectilePrototypes.cfg
+     71.69 MB  2.0.5/Stalker2/Content/GameLite/GameData/QuestNodePrototypes.cfg
+      95.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/QuestPrototypes.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/QuickSaveVariables.cfg
+       1.9 KB  2.0.5/Stalker2/Content/GameLite/GameData/RG_name_anims.txt
+       7.5 KB  2.0.5/Stalker2/Content/GameLite/GameData/RegionMusicPrototypes.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/RelationColors.json
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/RelationColorsDataTable.json
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/RelationColorsDataTableMarker.json
+      37.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/RelationPrototypes.cfg
+      10.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Relations.csv
+     541.7 KB  2.0.5/Stalker2/Content/GameLite/GameData/RestrictorsPrototypes.cfg
+       2.1 KB  2.0.5/Stalker2/Content/GameLite/GameData/SaveLoadVariables.cfg
+       0.1 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/G_ExperiencedNDDebug.cfg
+       0.1 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/G_MasterNDDebug.cfg
+       0.1 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/G_NewbieNDDebug.cfg
+       0.1 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/G_VeteranNDDebug.cfg
+       4.0 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts.cfg
+       0.1 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScriptsAA.cfg
+       0.1 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScriptsEG.cfg
+       0.1 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScriptsIM.cfg
+       0.1 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScriptsMY.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScriptsRK.cfg
+       0.1 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScriptsSD.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ01.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ02.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ03.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ04.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ06.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ07.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ08.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ10.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ103.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ11.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ12.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ13.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ14.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ15.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ16.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ17.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ18.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ19.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ20.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ21.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ22.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ23.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ24.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ25_withKey.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ25_withoutKey.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ26.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ26_FlashDrive.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ27.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_ANCQ28.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E01_MQ01.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E01_MQ01_NoIntro.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E01_MQ01_WithIntro.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E02_MQ01.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E02_MQ02_KosoyHunt.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E02_MQ03.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E02_SQ01.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E02_SQ02.cfg
+       0.5 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E02_Sphere_Rihter.cfg
+       0.5 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E02_Sphere_Varta.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E03_MQ01.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E03_MQ01_KillBandits.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E03_MQ01_KillVarta.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E03_MQ02.cfg
+       0.5 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E03_MQ03_AllInclusive.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E03_MQ03_Naked.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E03_MQ04.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E03_MQ05_Iskra.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E03_MQ05_Varta.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E03_MQ06_SparkWay_DidntShootVarta.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E03_MQ06_SparkWay_DidntShootVarta_HelpScar.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E03_MQ06_SparkWay_ShootVarta_HelpScar.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E03_MQ06_SparkWay_ShootWard.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E03_MQ06_WardWay_ShootWard.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E03_MQ06_WardWay_SkifDidntShootWard.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E03_MQ06_WardWay_SniperKillChernozem.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E04_MQ01_Spark.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E04_MQ01_Stalker.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E04_MQ01_Ward.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E04_MQ02_Spark.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E04_MQ02_Ward.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E04_SQ01.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E04_SQ02.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E05_EQ01.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E05_EQ02_PsiDestroyed.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E05_EQ02_Zombies.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E05_EQ03.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E05_EQ04.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E05_MQ01_Spark.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E05_MQ01_Ward.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E05_MQ02.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E05_MQ03.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E05_MQ04_Spark.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E05_MQ04_Ward.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E05_MQ05.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E05_SQ01.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E05_SQ03.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E05_SQ04.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E06_MQ01.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E06_MQ02.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E06_MQ03.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E06_MQ04.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E07_EQ01.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E07_EQ02.cfg
+       0.5 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E07_MQ01_Spark.cfg
+       0.5 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E07_MQ01_Ward.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E07_MQ03.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E07_MQ04.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E07_MQ05.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E07_MQ06.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E07_SQ01.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E07_SQ01_Hut.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E07_SQ01_Zalesie.cfg
+       0.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E08_Bossfight_Faust_Spark.cfg
+       0.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E08_Bossfight_Faust_Ward.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E08_EQ01.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E08_EQ02.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E08_EQ03.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E08_MQ01_Spark.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E08_MQ01_Ward.cfg
+       0.5 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E08_MQ03_Spark.cfg
+       0.5 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E08_MQ03_Ward.cfg
+       0.5 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E08_MQ04.cfg
+       0.5 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E08_MQ05.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E08_SQ01.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E08_SQ01_AddCollars.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E08_SQ01_ProceedTo3rdStage.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E09_EQ01.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E09_EQ02.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E09_MQ01_Malakhit.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E09_MQ01_Spark.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E09_MQ01_Ward.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E10_MQ01.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E10_MQ02.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E10_SQ01.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E11_MQ01_Spark.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E11_MQ01_Spark_HelpedRoosevelt.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E11_MQ01_Spark_KilledRoosevelt.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E11_MQ01_Ward.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E11_MQ01_Ward_HelpedRoosevelt.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E11_MQ01_Ward_KilledRoosevelt.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E11_MQ02_Spark.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E11_MQ02_Ward.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E11_MQ03_Spark.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E11_MQ03_Strider.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E11_MQ03_Ward.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E11_MQ04.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E12_MQ01_Spark.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E12_MQ01_Strelok.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E12_MQ01_Ward.cfg
+       0.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E14_Bossfight_Korshunov_Spark.cfg
+       0.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E14_Bossfight_Korshunov_Strelok.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E14_MQ01_Spark.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E14_MQ01_Strelok.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E14_MQ01_Varta.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E14_MQ02_Spark.cfg
+       0.5 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E14_MQ02_Strider.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E14_MQ02_Ward.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E15_MQ01_KillGeman.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E15_MQ01_LetGermanGo.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E15_MQ02.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E15_MQ02_BasicNPC.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E15_MQ02_WithoutPripoy.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E15_MQ02_WithoutSBFoma.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E15_MQ03.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E16_Bossfight_Scar.cfg
+       0.5 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E16_Bossfight_Strelok.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E16_MQ01.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E16_MQ02.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E16_MQ03_Skif.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_E16_MQ03_Strelok.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ04.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ04_RankVeteran.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ05_RankNewbie.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ05_RankVeteran.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ08.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ10.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ101.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ101_BanditFriends.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ109_Helicopter.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ109_Swinery.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ11.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ110.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ111.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ118.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ13.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ139.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ139_Varta.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ13_DeadAdik .cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ140.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ140_WithDetector.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ141.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ143.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ144.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ145_SparkEnemy.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ145_SparkFriend.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ145_SparkNeutral.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ146.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ147.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ148.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ14_EnoughMoney.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ14_NoMoney.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ150.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ151.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ152_Spark.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ152_Ward.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ153.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ154.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ155.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ156.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ156_SQ93Start.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ156_SQ93StartSparkFriend.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ156_SparkFriend.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ16.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ161.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ162.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ163.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ164.cfg
+       0.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ165_Badge_SQ93Start.cfg
+       0.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ165_SQ93Start.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ166.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ167.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ20.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ26.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ26_SQ93Start.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ29.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ30.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ32.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ33.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ35_Amalgama.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ35_Bespredel.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ35_BothEQs.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ35_NoEQs.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ36.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ37.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ38.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ43_Meds.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ43_NoMeds.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ48.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ50.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ50_NearBandits.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ51.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ51_AfterEQ20.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ52.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ54.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ55.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ57.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ58.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ60.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ62.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ64.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ65.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ66.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ67.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ68.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ70.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ71.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ73.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ74.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ75.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ76.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ77.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ79.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ81.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ82.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ84.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ85.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ88.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ92.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ93.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ97.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_EQ98.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SEQ01.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SEQ02.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SEQ03.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SEQ04.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SEQ05.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SEQ06.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SEQ07.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SEQ08.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SEQ09.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SEQ10.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ01.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ02.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ03.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ04.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ04_teleportSolovei.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ05.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ06.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ10.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ100.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ101_SpawnNPC.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ101_Teleport.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ102_Exp.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ102_Master.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ102_Veteran.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ103.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ103_Radio.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ103_Veteran.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ13.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ18.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ20.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ25.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ47_Intro.cfg
+       0.7 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ47_StartGP.cfg
+       0.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ47_StartOW.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ50.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ81.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ86.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ86_Fight.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ86_SecondEntrance.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ87.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ87_WithEnergetic.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ87_WithWater.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ88.cfg
+       0.5 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ88_FightFireDepo.cfg
+       0.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ88_FightSchool.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ89.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ89_CombatTest.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ90_AlternativePass1_NearFreedom.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ90_AlternativePass2_NearBanditBase.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ90_Combat.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ90_GoldenPass_NearBarman_Rostok.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ90_Stealth.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ90_Stealth_Surface.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ91.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ92_NotSpark.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ92_Spark.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ93.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ93_BothDone.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ93_EQ156Done.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ93_EQ26Done.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ94.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ95_ChemPlant_BanzaiRadio.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ95_OldMine.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ96_Base.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ96_C01.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ96_C02.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ96_C03.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ97.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ98.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_SQ99.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/OnGameLaunch/OnGameLaunchScripts_StoriesUntoldFull.cfg
+       0.8 KB  2.0.5/Stalker2/Content/GameLite/GameData/Scripts/ScenarioFlagScripts.cfg
+       9.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/SettingsVariablesPC.cfg
+      10.0 KB  2.0.5/Stalker2/Content/GameLite/GameData/SettingsVariablesWin64.cfg
+      10.0 KB  2.0.5/Stalker2/Content/GameLite/GameData/SettingsVariablesWinGDK.cfg
+       4.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/SingletonConstants.cfg
+       5.1 KB  2.0.5/Stalker2/Content/GameLite/GameData/SingletonConstants/BarkManager.cfg
+       4.7 KB  2.0.5/Stalker2/Content/GameLite/GameData/SingletonConstants/DialogLight.cfg
+      25.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/SmartCoverPrototypes.cfg
+     17.99 MB  2.0.5/Stalker2/Content/GameLite/GameData/SpawnActorPrototypes.rar
+     396.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/StashPrototypes.cfg
+       7.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/Statistics.cfg
+       0.2 KB  2.0.5/Stalker2/Content/GameLite/GameData/TeleportGroupPrototypes.cfg
+       2.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/TeleportPrototypes.cfg
+       0.0 KB  2.0.5/Stalker2/Content/GameLite/GameData/Texts/En/E03_MQ01_Journal.cfg
+       0.0 KB  2.0.5/Stalker2/Content/GameLite/GameData/Texts/En/E03_MQ05_Journal.cfg
+       0.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/Texts/En/SQ13_Journal.cfg
+       0.0 KB  2.0.5/Stalker2/Content/GameLite/GameData/Texts/Ru/E03_MQ01_Journal.cfg
+       0.0 KB  2.0.5/Stalker2/Content/GameLite/GameData/Texts/Ru/E03_MQ05_Journal.cfg
+       0.9 KB  2.0.5/Stalker2/Content/GameLite/GameData/Texts/Ru/SQ05_Journal.cfg
+       1.1 KB  2.0.5/Stalker2/Content/GameLite/GameData/Texts/Ru/SQ13_Journal.cfg
+      93.5 KB  2.0.5/Stalker2/Content/GameLite/GameData/TradePrototypes.cfg
+       9.4 KB  2.0.5/Stalker2/Content/GameLite/GameData/UpdatePopupPrototypes.cfg
+      1.78 MB  2.0.5/Stalker2/Content/GameLite/GameData/UpgradePrototypes.cfg
+       2.6 KB  2.0.5/Stalker2/Content/GameLite/GameData/VoiceModulatorPrototypes.cfg
+       3.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/WaterVariables.cfg
+     303.1 KB  2.0.5/Stalker2/Content/GameLite/GameData/WeaponData/CharacterWeaponSettingsPrototypes.cfg
+     952.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/WeaponData/WeaponAttributesPrototypes.cfg
+      1.33 MB  2.0.5/Stalker2/Content/GameLite/GameData/WeaponData/WeaponGeneralSetupPrototypes.cfg
+       9.7 KB  2.0.5/Stalker2/Content/GameLite/GameData/WeatherChainPrototypes.cfg
+     124.7 KB  2.0.5/Stalker2/Content/GameLite/GameData/WeatherSelectionPrototypes.cfg
+       4.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/ref/refs.cfg
+      58.3 KB  2.0.5/Stalker2/Content/GameLite/GameData/xls/WeaponPrototypes.csv
+       8.0 KB  README.md
