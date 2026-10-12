@@ -1,0 +1,7 @@
+,Player,Duty_IHub,Freedom_IHub,Zombie_CNPP,ZulusBoss_Faction,MykluhaFreedom,Mercenaries_Nord ,Militaries,Duty,Freedom
+Duty_IHub,0,800,,,,,,0,,0
+Freedom_IHub,0,,800,,,,,0,0,
+Zombie_CNPP,-800,,,800,,,,,,
+ZulusBoss_Faction,-1000,,,,800,,,,,
+MykluhaFreedom,0,,,,,800,,,0,-800
+Mercenaries_Nord ,-800,-800,-800,-800,-800,-800,800,-800,-800,-800

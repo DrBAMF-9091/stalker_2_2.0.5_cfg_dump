@@ -1,0 +1,307 @@
+[
+	{
+		"Name": "Default",
+		"QuestColorPreset":
+		{
+			"MainQuestColor":
+			{
+				"R": 0.863157,
+				"G": 0,
+				"B": 0.800727,
+				"A": 1
+			},
+			"MainQuestHeaderColor":
+			{
+				"R": 0.863157,
+				"G": 0,
+				"B": 0.800727,
+				"A": 1
+			},
+			"MainQuestBackgroundColor":
+			{
+				"R": 0.863157,
+				"G": 0,
+				"B": 0.800727,
+				"A": 1
+			},
+			"MainQuestJournalBackgroundColor":
+			{
+				"R": 0.863157,
+				"G": 0,
+				"B": 0.800727,
+				"A": 1
+			},
+			"SecondaryQuestColor":
+			{
+				"R": 0.863157,
+				"G": 0,
+				"B": 0.800727,
+				"A": 1
+			},
+			"SecondaryQuestHeaderColor":
+			{
+				"R": 0.863157,
+				"G": 0,
+				"B": 0.800727,
+				"A": 1
+			},
+			"SecondaryQuestBackgroundColor":
+			{
+				"R": 0.863157,
+				"G": 0,
+				"B": 0.800727,
+				"A": 1
+			},
+			"SecondaryQuestJournalBackgroundColor":
+			{
+				"R": 0.863157,
+				"G": 0,
+				"B": 0.800727,
+				"A": 1
+			},
+			"QuestTaskFinishedColor":
+			{
+				"R": 0.863157,
+				"G": 0,
+				"B": 0.800727,
+				"A": 1
+			},
+			"QuestTaskFailedColor":
+			{
+				"R": 0.863157,
+				"G": 0,
+				"B": 0.800727,
+				"A": 1
+			},
+			"QuestTaskCancelledColor":
+			{
+				"R": 0.863157,
+				"G": 0,
+				"B": 0.800727,
+				"A": 1
+			}
+		}
+	},
+	{
+		"Name": "BaseGame",
+		"QuestColorPreset":
+		{
+			"MainQuestColor":
+			{
+				"R": 0.863157,
+				"G": 0.270498,
+				"B": 0.000607,
+				"A": 1
+			},
+			"MainQuestHeaderColor":
+			{
+				"R": 0.863157,
+				"G": 0.270498,
+				"B": 0.000607,
+				"A": 1
+			},
+			"MainQuestBackgroundColor":
+			{
+				"R": 0.863157,
+				"G": 0.270498,
+				"B": 0.000607,
+				"A": 1
+			},
+			"MainQuestJournalBackgroundColor":
+			{
+				"R": 0.863157,
+				"G": 0.270498,
+				"B": 0.000607,
+				"A": 1
+			},
+			"SecondaryQuestColor":
+			{
+				"R": 0.011612,
+				"G": 0.47932,
+				"B": 0.83077,
+				"A": 1
+			},
+			"SecondaryQuestHeaderColor":
+			{
+				"R": 0.011612,
+				"G": 0.47932,
+				"B": 0.83077,
+				"A": 1
+			},
+			"SecondaryQuestBackgroundColor":
+			{
+				"R": 0.011612,
+				"G": 0.47932,
+				"B": 0.83077,
+				"A": 1
+			},
+			"SecondaryQuestJournalBackgroundColor":
+			{
+				"R": 0.863157,
+				"G": 0.270498,
+				"B": 0.000607,
+				"A": 1
+			},
+			"QuestTaskFinishedColor":
+			{
+				"R": 0.141263,
+				"G": 0.423268,
+				"B": 0.068478,
+				"A": 1
+			},
+			"QuestTaskFailedColor":
+			{
+				"R": 0.617207,
+				"G": 0.057805,
+				"B": 0.057805,
+				"A": 1
+			},
+			"QuestTaskCancelledColor":
+			{
+				"R": 0.155926,
+				"G": 0.152926,
+				"B": 0.14996,
+				"A": 1
+			},
+			"NotificationQuestStatusBackgroundRegular":
+			{
+				"R": 0.838799,
+				"G": 0.822786,
+				"B": 0.783538,
+				"A": 1
+			},
+			"NotificationQuestStatusTextDark":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"NotificationQuestStatusTextLight":
+			{
+				"R": 0.838799,
+				"G": 0.822786,
+				"B": 0.783538,
+				"A": 1
+			},
+			"QuestInactive":
+			{
+				"R": 0.590619,
+				"G": 0.520996,
+				"B": 0.434154,
+				"A": 1
+			}
+		}
+	},
+	{
+		"Name": "DLC1",
+		"QuestColorPreset":
+		{
+			"MainQuestColor":
+			{
+				"R": 1,
+				"G": 0.814847,
+				"B": 0.097587,
+				"A": 1
+			},
+			"MainQuestHeaderColor":
+			{
+				"R": 0.863157,
+				"G": 0.270498,
+				"B": 0.000607,
+				"A": 1
+			},
+			"MainQuestBackgroundColor":
+			{
+				"R": 1,
+				"G": 0.814847,
+				"B": 0.097587,
+				"A": 1
+			},
+			"MainQuestJournalBackgroundColor":
+			{
+				"R": 0.863157,
+				"G": 0.270498,
+				"B": 0.000607,
+				"A": 1
+			},
+			"SecondaryQuestColor":
+			{
+				"R": 0.011612,
+				"G": 0.47932,
+				"B": 0.83077,
+				"A": 1
+			},
+			"SecondaryQuestHeaderColor":
+			{
+				"R": 0.011612,
+				"G": 0.47932,
+				"B": 0.83077,
+				"A": 1
+			},
+			"SecondaryQuestBackgroundColor":
+			{
+				"R": 1,
+				"G": 0.814847,
+				"B": 0.097587,
+				"A": 1
+			},
+			"SecondaryQuestJournalBackgroundColor":
+			{
+				"R": 0.863157,
+				"G": 0.270498,
+				"B": 0.000607,
+				"A": 1
+			},
+			"QuestTaskFinishedColor":
+			{
+				"R": 0.141263,
+				"G": 0.423268,
+				"B": 0.068478,
+				"A": 1
+			},
+			"QuestTaskFailedColor":
+			{
+				"R": 0.617207,
+				"G": 0.057805,
+				"B": 0.057805,
+				"A": 1
+			},
+			"QuestTaskCancelledColor":
+			{
+				"R": 0.155926,
+				"G": 0.152926,
+				"B": 0.14996,
+				"A": 1
+			},
+			"NotificationQuestStatusBackgroundRegular":
+			{
+				"R": 0.838799,
+				"G": 0.822786,
+				"B": 0.783538,
+				"A": 1
+			},
+			"NotificationQuestStatusTextDark":
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			},
+			"NotificationQuestStatusTextLight":
+			{
+				"R": 0.838799,
+				"G": 0.822786,
+				"B": 0.783538,
+				"A": 1
+			},
+			"QuestInactive":
+			{
+				"R": 0.590619,
+				"G": 0.520996,
+				"B": 0.434154,
+				"A": 1
+			}
+		}
+	}
+]
